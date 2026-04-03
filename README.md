@@ -4,9 +4,9 @@ A retrieval-augmented generation system for factual question answering about Car
 
 ## Team
 
-- Mihail (mikeleon001)
-- [Teammate 2]
-- [Teammate 3]
+- Eduardo Gaxiola
+- Mihail Chitorog (mikeleon001)
+- Sunjay Guttikonda
 
 ## Domain
 
