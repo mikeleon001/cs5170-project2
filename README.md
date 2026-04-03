@@ -29,10 +29,10 @@ cs5170-project2/
 ├── data/
 │   ├── test/
 │   │   ├── questions.txt           # Our annotated test questions
-│   │   └── reference_answers.txt  # Reference answers for evaluation
+│   │   └── reference_answers.txt   # Reference answers for evaluation
 │   └── train/
 │       ├── questions.txt           # Training questions
-│       └── reference_answers.txt  # Training reference answers
+│       └── reference_answers.txt   # Training reference answers
 ├── src/
 │   ├── collect_data.py     # Scraping & data collection scripts
 │   ├── build_index.py      # Build BM25 and dense retrieval indexes
