@@ -1,0 +1,18 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.env
+.DS_Store
+*.egg-info/
+dist/
+build/
+.idea/
+.vscode/
+
+# Large model/data files
+*.bin
+*.pt
+*.safetensors
+knowledge_base/
+indexes/
